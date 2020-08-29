@@ -1,0 +1,2 @@
+rootProject.name = 'gitlab ci-cd pipeline for android sample'
+include ':app'
